@@ -1,0 +1,11 @@
+function addpathGypsilab()
+addpath('miscellaneous')
+addpath('openBmm')
+addpath('openDom')
+addpath('openFem')
+addpath('openFfm')
+addpath('openHmx')
+addpath('openMsh')
+addpath('openOpr')
+addpath('openRay')
+end
